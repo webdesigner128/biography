@@ -1,0 +1,27 @@
+
+form
+{
+float:left;
+display:block;
+width:25%;
+margin-top:100px;
+height:100px;
+
+
+
+}
+.login label {
+  color: #395870;
+  display: block;
+  font-weight: bold;
+
+  margin-bottom: 20px;
+  padding-top:100px;
+padding-bottom:100px;
+  
+}
+img
+{
+margin-top:50px;
+}
+

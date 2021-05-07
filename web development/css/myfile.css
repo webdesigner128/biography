@@ -1,0 +1,66 @@
+body
+{
+ background:#eb349e;
+}
+h1
+{
+  
+  margin-bottom:10px;
+  background:#000099;
+  color:red;
+}
+a
+{
+  background:#000099;
+  color:red;
+  
+}
+#bg
+{
+ background:#000099;
+ font-size:120%;
+}
+.bg1
+{
+  margin-left:45%;
+  
+}
+.gr
+{
+ text-shadow:3px 4px 5px #ff0000;
+ box-shadow:inset 3px 4px 5px #000000;
+ margin-top:50px;
+ margin-right:3%;
+ width:30%;
+ display:inline-block;
+ float:left;
+ background:#0000ff;
+ margin-bottom:100px;
+ text-indent:100px;
+  word-spacing:.5em;
+  letter-spacing:1em;
+}
+footer
+{
+ padding-top:30px;
+  
+ clear:both;
+ background:#000099;
+  height:100px;
+}
+img
+{ 
+ width:100px;
+}
+a:link
+{
+  color:#000033;
+}
+a:visited
+{
+ color:#003300;
+}
+a:hover
+{
+ color:#330000;
+}

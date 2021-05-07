@@ -1,0 +1,23 @@
+div
+{
+   /*border:23px solid #00ff00;
+   border-width:23px 43px 56px 12px;
+   margin:122px;*/
+   width:50%;
+   
+}
+/*div p.test
+{
+  color:blue;
+  font-size:100px;
+  background:red;
+  border:23px offset #00ff00;
+  border-width:23px;
+}*/
+.good
+{
+   border:23px solid #0000ff;
+   margin:54px 45px;
+   padding:43px 34px;
+   width:100px;
+}
